@@ -2,9 +2,9 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Cite</title>	
+        <title><?= SATE_NAME ?></title>	
     </head>
     <body>
-	<h1><php=SATE_NAME ?></h1>
+	<h1><?= SATE_NAME ?></h1>
     </body>
 </html>
