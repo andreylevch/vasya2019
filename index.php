@@ -5,6 +5,6 @@
         <title>Cite</title>	
     </head>
     <body>
-	<php=SATE_NAME ?>
+	<h1><php=SATE_NAME ?></h1>
     </body>
 </html>
